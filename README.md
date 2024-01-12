@@ -20,6 +20,6 @@ Localized files are named in the format `gamelist_[language].xml`. `language` is
 
 This repository accepts pull requests for localizations of the `gamelist_[language].xml` file.
 
-## 许可证
+## License
 
 [MIT License](README.md)
