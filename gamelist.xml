@@ -2592,6 +2592,30 @@ You're shooting tanks, ships, aircraft carriers and trains while flying towards 
 		<path>Tiger-Heli (E) [!].nes</path>
 	</game>
 	<game source="Recalbox" timestamp="1704901857">
+		<region>us</region>
+		<players>2</players>
+		<genre>Shooter</genre>
+		<favorite>true</favorite>
+		<rating>1.00</rating>
+		<name>Elevator Action</name>
+		<path>Elevator Action (U) [!].nes</path>
+		<releasedate>19980520T000000</releasedate>
+		<desc>The player assumes the role of Agent 17, codename: "Otto", a secret agent. Otto enters a 30-story building at roof level and must work his way down to the basement, collecting secret documents whose locations are marked by red doors. 
+
+Along the way, he must use the building's elevator and escalator systems to move from floor to floor and avoid or kill the enemy agents trying to stop him. 
+
+After picking up all the documents, Otto can escape to the basement and drive away in a waiting car to end the level. 
+
+Otto can move left and right, jump, duck, and fire up to three shots at a time from his pistol. While Otto is in an elevator, the player can push up or down to send him to a higher or lower floor. He can run or jump across an empty shaft as long as the elevator is above him, and can ride on its roof but not control its motion or cross to the other side.
+
+If Otto tries to leave the building without collecting all the documents, he will be transported to the highest floor that still has an unopened red door and must work his way back down. In addition, if he takes too long to clear a level, an alarm will sound; the enemy agents then become more aggressive, and the elevators will be slower to respond to the player's joystick movements.
+
+Each building contains a section in which the lights are out, making it harder to see approaching enemies. On other floors, Otto can temporarily disable the lights by shooting one of the overhead fixtures. 
+
+Otto is trained in shooting as well as karate. Otto can kill enemy agents by shooting them, jump-kicking them at close range, dropping a light fixture on their heads, or crushing them with an elevator. If he is shot or crushed, or if he falls down an open shaft, the player loses one life.</desc>
+		<image>media/images/Elevator Action (U) [!].png</image>
+	</game>
+	<game source="Recalbox" timestamp="1704901857">
 		<hash>C50A8304</hash>
 		<region>us</region>
 		<players>2</players>
